@@ -13,11 +13,11 @@ body {
 
 @font-face {
   font-family: "Poppins";
-  src: url("/fonts\ poppins/Poppins-Medium.ttf") format("truetype");
+  src: url("fonts\ poppins/Poppins-Medium.ttf") format("truetype");
 }
 @font-face {
   font-family: "VEGETABLES";
-  src: url("/fonts\ poppins/VEGETABLES.ttf") format("truetype");
+  src: url("fonts\ poppins/VEGETABLES.ttf") format("truetype");
 }
 
 
@@ -33,7 +33,7 @@ body {
   left: 0;
   width: 100%;
   height: 100%;
-  background-image: url("/images/sayur\ dan\ buah.jpg");
+  background-image: url("images/sayur\ dan\ buah.jpg");
   background-size: cover;
   opacity: 0.2;
   z-index: -1;
@@ -205,4 +205,5 @@ a:hover {
   color:#ffff;
   margin-bottom:0;
 }
+
 
