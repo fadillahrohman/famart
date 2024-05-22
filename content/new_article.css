@@ -24,7 +24,7 @@ body {
   left: 0;
   width: 100%;
   height: 100%;
-  background-image: url("/images/sayur\ dan\ buah.jpg");
+  background-image: url("images/sayur\ dan\ buah.jpg");
   background-size: cover;
   opacity: 0.2;
   z-index: -1;
